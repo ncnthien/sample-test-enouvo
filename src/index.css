@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-sunny {
+  fill: green;
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background: url("./assets/icons/sunny.png");
+  background-size: 36px 36px;
+}
+
+.icon-cold {
+  fill: green;
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background: url("./assets/icons/cold.png");
+  background-size: 36px 36px;
+}
